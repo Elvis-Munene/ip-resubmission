@@ -2,13 +2,12 @@
 *{
     font-family: "Nunito";
     padding: 0;
-    margin: 0;
-}
+    margin: 0.5rem;
+} 
 .top-nav-bar{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-top: 1rem;
     padding-right: 3rem;
 }
 .moringa-logo{
@@ -53,4 +52,28 @@ ul{
     border: 1px solid #EC4067;
     padding: 4px 14px;
     font-weight: 600;
+}
+.image-2{
+    width: 300px; 
+    padding-right: 20px;
+}
+.image-2-plus-text{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.image-3-plus-text{
+    display: flex;
+    flex-direction: row;
+}
+.third{
+    width: 300px;
+}
+.image-text-sectio-four{
+    display: flex;
+
+}
+.image-four{
+    width: 300px;
 }
