@@ -28,7 +28,7 @@ Requirements.
 2. Internet conectivity.
 Installation Process
 ***
-*git clone:
+*git clone:https://github.com/Elvis-Munene/ip-resubmission.git
 *unzip the file.
 *use a broser to open the file.
 
