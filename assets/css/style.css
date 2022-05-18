@@ -31,6 +31,9 @@ ul{
     justify-content: space-around;
     height: fit-content;
 }
+.colored-text{
+    color: #EC4067;
+}
 .first-button > button  {
     background-color: #EC4067;
     padding: 4px 14px;
@@ -38,4 +41,16 @@ ul{
 }
 .first-image{
     width: 300px;
+}
+.enroll-now > button{
+    background-color: #EC4067;
+    padding: 4px 14px;
+    border-radius: 10px;
+}
+.explore > button{
+    background-color: white;
+    color: #EC4067;
+    border: 1px solid #EC4067;
+    padding: 4px 14px;
+    font-weight: 600;
 }
