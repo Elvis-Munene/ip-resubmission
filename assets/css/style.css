@@ -79,6 +79,7 @@ ul{
 }
 .image-text-sectio-four{
     display: flex;
+    justify-content: space-around;
 
 }
 .image-four{
@@ -87,3 +88,4 @@ ul{
 .stories{
     background-color: red;
 }
+
