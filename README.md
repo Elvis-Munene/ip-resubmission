@@ -33,7 +33,7 @@ Installation Process
 *use a broser to open the file.
 
 # Live Link
-
+elvis-munene.github.io/ip-resubmission/
 # Technology Used
 * cascading syling sheet.
 * Hypertext Markup Language.
