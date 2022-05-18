@@ -30,7 +30,11 @@ ul{
     display: flex;
     justify-content: space-around;
     height: fit-content;
-
+}
+.first-button > button  {
+    background-color: #EC4067;
+    padding: 4px 14px;
+    border-radius: 10px;
 }
 .first-image{
     width: 300px;
