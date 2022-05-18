@@ -1,4 +1,37 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
 *{
     font-family: "Nunito";
+    padding: 0;
+    margin: 0;
+}
+.top-nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 1rem;
+    padding-right: 3rem;
+}
+.moringa-logo{
+    padding-left: 2rem;
+}
+.nav-bar > ul > li{
+    display: flex;
+    display: inline;
+    justify-content: space-between;
+    padding-left: 1rem;
+}
+ul{ 
+    padding-top: 1rem;
+    list-style-type: none;
+    padding-left: 1rem;
+}
+.section-1{
+    padding-top: 5rem;
+    display: flex;
+    justify-content: space-around;
+    height: fit-content;
+
+}
+.first-image{
+    width: 300px;
 }
