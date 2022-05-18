@@ -66,6 +66,21 @@ ul{
 .stories-plus-image{
     
 }
+.text-2 > button{
+    background-color: #EC4067;
+    padding: 4px 14px;
+    border-radius: 10px;
+}
+.text-align > button{
+    background-color: #EC4067;
+    padding: 4px 14px;
+    border-radius: 10px;
+}
+.text-four > button{
+    background-color: #EC4067;
+    padding: 4px 14px;
+    border-radius: 10px;
+}
 .text-3{
     display: flex;
     flex-direction: row;
@@ -145,3 +160,26 @@ ul{
 }
 .Karimi-and-text > h4{
     color: #EC4067;
+}
+/* section-six */
+.purely-text{
+    display: flex;
+    align-items: center;
+}
+.cool-bike{
+    color: #EC4067;
+}
+.bike-image-sec-five > img{
+    width: 600px;
+}
+.section-five-imege-text{
+    display: flex;
+}
+.for-entire-section-six{
+    padding-left: 9.5rem;
+}
+.section-five-text > button{
+    background-color: #EC4067;
+    padding: 4px 14px;
+    border-radius: 10px;
+}
