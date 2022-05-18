@@ -88,4 +88,60 @@ ul{
 .stories{
     background-color: red;
 }
+.section-five{
+    padding-left: 9.5rem;
+}
+.all-mentors{
+    display: flex;
+    justify-content: space-evenly;
+    width: fit-content;
+    padding-left: 9.5rem;
 
+
+}
+.rose-image > img{
+    width: 200px;
+
+}
+.rose-and-text > button{
+    background-color: #EC4067;
+    padding: 4px 14px;
+    border-radius: 10px;
+
+}
+.rose-and-text > h4{
+    color: #EC4067;
+}
+.byrrone-image > img{
+    width: 200px;
+}
+.byrrone-and-text > button{
+    background-color: #EC4067;
+    padding: 4px 14px;
+    border-radius: 10px;
+
+}
+.byrrone-and-text > h4{
+    color: #EC4067;
+}
+.Katana-image > img{
+    width: 200px;
+}
+.Katana-and-text > button{
+    background-color: #EC4067;
+    padding: 4px 14px;
+    border-radius: 10px;
+}
+.Katana-and-text > h4{
+    color: #EC4067;
+}
+.Karimi-image > img{
+    width: 200px;
+}
+.Karimi-and-text > button{
+    background-color: #EC4067;
+    padding: 4px 14px;
+    border-radius: 10px;
+}
+.Karimi-and-text > h4{
+    color: #EC4067;
