@@ -63,9 +63,16 @@ ul{
     justify-content: space-around;
 
 }
-.image-3-plus-text{
+.stories-plus-image{
+    
+}
+.text-3{
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
+}
+.text-align{
+    flex-wrap: wrap;
 }
 .third{
     width: 300px;
@@ -76,4 +83,7 @@ ul{
 }
 .image-four{
     width: 300px;
+}
+.stories{
+    background-color: red;
 }
