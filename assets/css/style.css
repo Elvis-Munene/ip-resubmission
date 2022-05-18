@@ -193,3 +193,28 @@ ul{
     border-radius: 10px;
     color: white;
 }
+.finalizing{
+    padding-left: 9.5rem;
+}
+.finalizing > h1{
+    color: #EC4067;
+}
+.finalizing > h2 > button{
+    background-color: #EC4067;
+    padding: 4px 14px;
+    border-radius: 10px;
+    color: white;  
+}
+.pink-final{
+   color: #EC4067;
+}
+footer{
+    align-items: center;
+    padding-left: 25rem;
+    background-color: #f7f7f7;
+    height: 5rem;
+}
+.our-final-text{
+    padding-top: 2rem;
+
+}
