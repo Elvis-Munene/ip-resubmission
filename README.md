@@ -1,2 +1,3 @@
 # ip-resubmission
-<img width="545" alt="image1" src="https://user-images.githubusercontent.com/104641808/169171473-ec1c4d2c-33fe-4fc9-a3cc-97460e05bac3.png">
+
+![moringa-landing](https://user-images.githubusercontent.com/104641808/169171527-a25195e2-a6b1-4ced-a8d3-104d188624a1.png)
